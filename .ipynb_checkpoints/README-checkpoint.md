@@ -19,8 +19,8 @@ The goal of the project is to evaluate food hygiene ratings of establishments ac
 
 ### Repository Structure
 Source code:
-- [NoSQL_setup.ipynb]() contains the code to setup the database for analysis.
-- [NoSQL_analysis.ipynb]() contains the analysis code.
+- [NoSQL_setup.ipynb](https://github.com/alyssahondrade/nosql-challenge/blob/main/NoSQL_setup.ipynb) contains the code to setup the database for analysis.
+- [NoSQL_analysis.ipynb](https://github.com/alyssahondrade/nosql-challenge/blob/main/NoSQL_analysis.ipynb) contains the analysis code.
 
 The [`Resources`](https://github.com/alyssahondrade/nosql-challenge/tree/main/Resources) directory contains the dataset: [`establishments.json`](https://github.com/alyssahondrade/nosql-challenge/blob/main/Resources/establishments.json)
 
